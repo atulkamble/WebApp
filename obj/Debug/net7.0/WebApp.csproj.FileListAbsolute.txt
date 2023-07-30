@@ -1,0 +1,15 @@
+D:\Github\WebApp\bin\Debug\net7.0\WebApp.exe
+D:\Github\WebApp\bin\Debug\net7.0\WebApp.deps.json
+D:\Github\WebApp\bin\Debug\net7.0\WebApp.runtimeconfig.json
+D:\Github\WebApp\bin\Debug\net7.0\WebApp.dll
+D:\Github\WebApp\bin\Debug\net7.0\WebApp.pdb
+D:\Github\WebApp\obj\Debug\net7.0\WebApp.csproj.AssemblyReference.cache
+D:\Github\WebApp\obj\Debug\net7.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\WebApp\obj\Debug\net7.0\WebApp.AssemblyInfoInputs.cache
+D:\Github\WebApp\obj\Debug\net7.0\WebApp.AssemblyInfo.cs
+D:\Github\WebApp\obj\Debug\net7.0\WebApp.csproj.CoreCompileInputs.cache
+D:\Github\WebApp\obj\Debug\net7.0\WebApp.dll
+D:\Github\WebApp\obj\Debug\net7.0\refint\WebApp.dll
+D:\Github\WebApp\obj\Debug\net7.0\WebApp.pdb
+D:\Github\WebApp\obj\Debug\net7.0\WebApp.genruntimeconfig.cache
+D:\Github\WebApp\obj\Debug\net7.0\ref\WebApp.dll
