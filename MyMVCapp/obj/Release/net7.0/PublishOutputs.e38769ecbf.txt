@@ -1,0 +1,7 @@
+D:\Github\WebApp\MyMVCapp\bin\Publish\MyMVCapp.exe
+D:\Github\WebApp\MyMVCapp\bin\Publish\appsettings.Development.json
+D:\Github\WebApp\MyMVCapp\bin\Publish\appsettings.json
+D:\Github\WebApp\MyMVCapp\bin\Publish\MyMVCapp.dll
+D:\Github\WebApp\MyMVCapp\bin\Publish\MyMVCapp.deps.json
+D:\Github\WebApp\MyMVCapp\bin\Publish\MyMVCapp.runtimeconfig.json
+D:\Github\WebApp\MyMVCapp\bin\Publish\MyMVCapp.pdb
