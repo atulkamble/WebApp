@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/2a8bed89-6d1f-4225-848d-704d46732039/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/atulkamble"
+}
