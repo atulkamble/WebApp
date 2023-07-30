@@ -8,6 +8,7 @@ Prerequisites:
 - Azure App Service Extension. (https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice)
 
 Commands:
+```ruby
 dotnet new console
 dotnet run
 dotnet new mvc -o MyMVCapp
@@ -15,3 +16,4 @@ code -r MyMVCapp
 dotnet dev-certs https --trust
 dotnet run
 dotnet publish -c Release -o ./bin/Publish
+```
