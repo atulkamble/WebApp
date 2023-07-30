@@ -1,4 +1,4 @@
-# WebApp
+# Test WebApp on Azure
 
 Prerequisites:
 - Azure account 
