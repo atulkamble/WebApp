@@ -1,0 +1,5 @@
+D:\Github\WebApp\obj\Release\net7.0\WebApp.csproj.AssemblyReference.cache
+D:\Github\WebApp\obj\Release\net7.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\WebApp\obj\Release\net7.0\WebApp.AssemblyInfoInputs.cache
+D:\Github\WebApp\obj\Release\net7.0\WebApp.AssemblyInfo.cs
+D:\Github\WebApp\obj\Release\net7.0\WebApp.csproj.CoreCompileInputs.cache
